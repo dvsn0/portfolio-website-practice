@@ -34,8 +34,8 @@ export default function About() {
         learn new technologies. I am currently looking for a{" "}
         <span className="font-medium">full-time position</span> as a software
         developer. */}
-        After a near-fatal car accident that left me paralyzed from the chest down at the age of 18, my academic
-        career has been nothing but unconventional. I've embraced resilience and determination, refusing to be 
+        At the age of 18, a near-fatal car accident left me paralyzed from the chest down, marking the beginning of a profoundly transformative academic journey. 
+        I've embraced resilience and determination, refusing to be 
         defined by my circumstances -- and I've committed myself to supporting those in similar circumstances
         through my experiences and abilities as a student in a wheelchair. 
       </p>
