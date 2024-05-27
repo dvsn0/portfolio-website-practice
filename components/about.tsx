@@ -18,8 +18,8 @@ export default function About() {
       id="about"
     >
       <SectionHeading>About me</SectionHeading>
-      <p className="mb-3">
-        After graduating with a degree in{" "}
+      <p className="mb-3 max-w-2xl mx-auto">
+        {/* After graduating with a degree in{" "}
         <span className="font-medium">Accounting</span>, I decided to pursue my
         passion for programming. I enrolled in a coding bootcamp and learned{" "}
         <span className="font-medium">full-stack web development</span>.{" "}
@@ -33,16 +33,22 @@ export default function About() {
         . I am also familiar with TypeScript and Prisma. I am always looking to
         learn new technologies. I am currently looking for a{" "}
         <span className="font-medium">full-time position</span> as a software
-        developer.
+        developer. */}
+        After a near-fatal car accident that left me paralyzed from the chest down at the age of 18, my academic
+        career has been nothing but unconventional. I've embraced resilience and determination, refusing to be 
+        defined by my circumstances -- and I've committed myself to supporting those in similar circumstances
+        through my experiences and abilities as a student in a wheelchair. 
       </p>
 
-      <p>
-        <span className="italic">When I'm not coding</span>, I enjoy playing
+      <p className="mb-3 max-w-2xl mx-auto">
+        {/* <span className="italic">When I'm not coding</span>, I enjoy playing
         video games, watching movies, and playing with my dog. I also enjoy{" "}
         <span className="font-medium">learning new things</span>. I am currently
         learning about{" "}
         <span className="font-medium">history and philosophy</span>. I'm also
-        learning how to play the guitar.
+        learning how to play the guitar. */}
+        Working in research groups and receiving research grants for developing accessibility-related technology 
+        has allowed me to materialize my aspirations while also experiencing the importance of inclusive innovation.
       </p>
     </motion.section>
   );

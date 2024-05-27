@@ -2,27 +2,11 @@
 
 # [Watch video here](https://youtu.be/sUKptmUVIBM)
 
-## What you will learn
+## Credits
 
-- Latest Next.js 13 features
-- Next.js App Router
-- Next.js Server Actions
-- Client & Server Components
-- TypeScript (Beginner & Intermediate)
-- Tailwind CSS
-- Context API
-- Advanced Animations with Framer Motion
-- React.Email & Resend
-- Custom React hooks
-- Fresh, modern UI design
-- Light & Dark mode
-- Responsive website
+This portfolio website is based on the original work by [ByteGrad](https://github.com/ByteGrad/portfolio-website). I have customized and added my own details to suit my personal needs.
 
-## Important
-
-If you want to be a professional developer, you have to know the fundamentals like JavaScript and CSS really well. I highly recommend you go through my [Professional JavaScript](https://bytegrad.com/courses/professional-javascript) and [Professional CSS](https://bytegrad.com/courses/professional-css) courses.
-
-I'm close to releasing a complete React & Next.js course. Get on the email list to receive early-bird pricing: [link](https://email.bytegrad.com/).
+Original repository: [https://github.com/ByteGrad/portfolio-website](https://github.com/ByteGrad/portfolio-website)
 
 ## Setup
 
