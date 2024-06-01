@@ -1,7 +1,7 @@
 import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
-import { LuCircuitBoard, LuGraduationCap, LuLaptop } from "react-icons/lu";
+import { LuCircuitBoard, LuEyeOff, LuGraduationCap, LuLaptop, LuView } from "react-icons/lu";
 import corpcommentImg from "@/public/DevPostThumbNail.png";
 import rmtdevImg from "@/public/rmtdev.png";
 import wordanalyticsImg from "@/public/wordanalytics.png";
@@ -53,6 +53,14 @@ export const experiencesData = [
       "Conducted research literature reviews and published a manuscript for publication to a peer-reviewed journal focused on refreshable braille displays",
     icon: React.createElement(LuCircuitBoard),
     date: "March 2024 - Present",
+  },
+  {
+    title: "Chapman Research Excellence",
+    location: "Undergraduate Research Grant",
+    description:
+      "Grant awarded for a research project proposal on developing a walking stick with computer vision implementation. Plans for utilization of OpenMV and OpenAI API",
+    icon: React.createElement(LuView),
+    date: "May 2024 - December 2024",
   },
   {
     title: "TOBESOFT",
