@@ -9,7 +9,7 @@ import { HiDownload } from "react-icons/hi";
 import { FaGithubSquare } from "react-icons/fa";
 import { useSectionInView } from "@/lib/hooks";
 import { useActiveSectionContext } from "@/context/active-section-context";
-import faceID from "@/public/UCSD-ID.png";
+import faceID from "@/public/chapmanphoto.jpg";
 
 export default function Intro() {
   const { ref } = useSectionInView("Home", 0.5);
